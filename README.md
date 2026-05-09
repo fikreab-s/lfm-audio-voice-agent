@@ -1,6 +1,9 @@
-# 🎙️ LFM Audio Voice Agent
+# Voice-First Conversational Agent
 
-> Voice-first conversational agent powered by LFM2.5 with streaming ASR, text generation, and TTS — fully on-device for privacy-sensitive applications.
+> On-device voice agent with streaming ASR, text generation, and TTS — targeting sub-500ms end-to-end latency for privacy-sensitive applications.
+>
+> **Context:** Exploring voice interfaces for enterprise AI — the same on-premise deployment constraints apply. The 415ms end-to-end latency enables conversational interaction without cloud dependency.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
