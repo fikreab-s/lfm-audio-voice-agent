@@ -55,3 +55,9 @@ $$\text{Audio}_k = \text{TTS}(\text{sentence}_k) \parallel \text{LFM}(\text{gene
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![voice latency](viz/voice_latency.png)
+
+---
